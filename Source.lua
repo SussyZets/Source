@@ -10,7 +10,7 @@ iconImages = {
     Yellow = "rbxassetid://13155810767",
     Red = "rbxassetid://13155801794",
     Blue = "rbxassetid://13155778413",
-    Colourful = "rbxassetid://13155827116",
+    Colourful = "http://www.roblox.com/asset/?id=13155827116",
 }
 
 if not iconImages[currentTheme] then
