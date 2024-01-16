@@ -14,7 +14,7 @@ iconImages = {
 }
 
 if not iconImages[currentTheme] then
-    currentTheme = "Colourful"
+    currentTheme = "Mono"
 end
 
 iconData = {
